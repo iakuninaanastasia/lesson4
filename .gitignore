@@ -1,0 +1,6 @@
+env/
+__pycache__
+app_flask.py
+news_list.py
+req.py
+server.py
